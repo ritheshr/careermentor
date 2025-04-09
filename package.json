@@ -23,3 +23,6 @@
     "puppeteer": "^24.6.0"
   }
 }
+"scripts": {
+  "build": "your-build-command-here"
+}
